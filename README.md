@@ -1,0 +1,1 @@
+Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this project, I have extracted some stock data(apple, amazon, tesla and gamestop) and then displayed this data in a graph using python libraries pandas, numpy, yfinance, and matplotlib.
